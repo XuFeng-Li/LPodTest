@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/XuFeng-Li/LPodTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'XuFeng-Li' => '1125105110@qq.com' }
+  s.author           = { '李旭峰' => 'lxf@asman.com.cn' }
   s.source           = { :git => 'https://github.com/XuFeng-Li/YourPodName.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
