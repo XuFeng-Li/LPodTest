@@ -17,7 +17,7 @@
 		D32F160FCBDA9724A6FCC77710D865D8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		F5F18934A2BE23992B2435E5ECA3DDEB /* Pods-LPodTest_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F299BE5D84C5CCFE7EAE98CEB2E7CBBD /* Pods-LPodTest_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F667C10F6757D603A34F12E0481DE088 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		FA7E13EF2327958300B40176 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7E13EE2327958300B40176 /* String.swift */; };
+		FA7E13F12327964800B40176 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7E13F02327964800B40176 /* String.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,7 +70,7 @@
 		F299BE5D84C5CCFE7EAE98CEB2E7CBBD /* Pods-LPodTest_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LPodTest_Example-umbrella.h"; sourceTree = "<group>"; };
 		F4DA6C3CEE432D432554EE7E82801AF1 /* LPodTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LPodTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F57966E79C24590A7099E566B51B533E /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = LPodTest/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
-		FA7E13EE2327958300B40176 /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
+		FA7E13F02327964800B40176 /* String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -215,8 +215,8 @@
 		FDD4849A8180D9B8C5A74E77272EE365 /* LPodTest */ = {
 			isa = PBXGroup;
 			children = (
+				FA7E13F02327964800B40176 /* String.swift */,
 				F57966E79C24590A7099E566B51B533E /* ReplaceMe.swift */,
-				FA7E13EE2327958300B40176 /* String.swift */,
 				79A5A791F8C2D3A9CE3D87C77C3AD319 /* Pod */,
 				E9968810E6D297D2786FCD5C825EABC2 /* Support Files */,
 			);
@@ -375,7 +375,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA7E13EF2327958300B40176 /* String.swift in Sources */,
+				FA7E13F12327964800B40176 /* String.swift in Sources */,
 				2D873CD3FE9864D63CAC9B86E1C46661 /* LPodTest-dummy.m in Sources */,
 				318DD81AA619358A0667A04FEC865D5D /* ReplaceMe.swift in Sources */,
 			);
