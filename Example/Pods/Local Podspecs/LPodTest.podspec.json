@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of LPodTest.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/李旭峰/LPodTest",
+  "homepage": "https://github.com/XuFeng-Li/LPodTest",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "李旭峰": "lxf@asman.com.cn"
+    "XuFeng-Li": "1125105110@qq.com"
   },
   "source": {
-    "git": "https://github.com/李旭峰/LPodTest.git",
+    "git": "https://github.com/XuFeng-Li/YourPodName.git",
     "tag": "0.1.0"
   },
   "platforms": {
